@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Luis Diego @luisdiher22
-- 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning JavaScript and HTML.
-- 💞️ I’m looking to collaborate on any project that makes me think out of the box! I believe there is always a way to be more efficient.
+
 - 📫 How to reach me: You can reach me through my personal email luisdiher22@gmail.com
 
 <!---
